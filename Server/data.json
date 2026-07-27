@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "2b5f",
+      "name": "TV",
+      "price": "250",
+      "quantity": "20",
+      "category": "electronics",
+      "shipping": false
+    },
+    {
+      "id": "de7a",
+      "name": "Standing Desk",
+      "price": "50",
+      "quantity": "100",
+      "category": "electronics",
+      "shipping": true
+    }
+  ]
+}
